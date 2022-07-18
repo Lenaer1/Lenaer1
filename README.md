@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lenaer
-- 👀 I’m interested in php, jaascript and 
+- 👀 I’m interested in php, javascript and 
 - 🌱 I’m currently learning vuejs
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me amagovelenear@gmail.com
