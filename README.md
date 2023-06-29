@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lenaer
+- 👋 Hi, I’m @Lenear
 - 👀 I’m interested in php, javascript and python
 - 🌱 I’m currently learning vuejs
 - 💞️ I’m looking to collaborate on different projects
